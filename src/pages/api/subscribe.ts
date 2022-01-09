@@ -37,7 +37,7 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
         })
       );
 
-      costumerId = stripeCustomer.id;
+      customerId = stripeCustomer.id;
     }
 
     const stripeCheckoutSession = await stripe.checkout.sessions.create({
