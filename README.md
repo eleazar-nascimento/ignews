@@ -12,7 +12,7 @@
  <a href="#sobre-o-projeto">Sobre o Projeto</a> •
  <a href="#tecnologias">Tecnologias</a> •
  <a href="#configurações-necessárias">Configurações necessárias</a> •
- <a href="#licença">Licença</a> •
+ <!-- <a href="#licença">Licença</a> • -->
  <a href="#autor">Autor</a>
 </p>
 
@@ -89,12 +89,12 @@ $ yarn dev
 ```
 
 ---
-
+<!-- 
 ## Licença
 
 Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações.
 
----
+--- -->
 
 ## Autor
 
