@@ -100,4 +100,4 @@ Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações
 
 Feito por Eleazar Nascimento 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Nelson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eleazar-da-silva-nascimento-ba033816b/)](https://www.linkedin.com/in/eleazar-da-silva-nascimento-ba033816b/)
+[![Linkedin Badge](https://img.shields.io/badge/-Eleazar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eleazar-da-silva-nascimento-ba033816b/)](https://www.linkedin.com/in/eleazar-da-silva-nascimento-ba033816b/)
